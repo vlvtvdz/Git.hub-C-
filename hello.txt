@@ -1,1 +1,1 @@
-hello
+Hello, Git! This is an update.
